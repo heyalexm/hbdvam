@@ -1,4 +1,6 @@
-
+.inline-blocks{
+  padding-top: 80px;
+}
 .inline-blocks > .block{
   display: inline-block;
   vertical-align: middle;
@@ -14,12 +16,14 @@
 }
 
 .twenty-one{
-  font-size: 240px;
+  padding-top: 40px;
+  padding-bottom: 0;
+  font-size: 200px;
   font-family: 'Josefin Sans';
   font-weight: 100;
   line-height: 180px;
   color: #fff;
-  margin: 40px 0;
+  margin:0;
 }
 
 .bday{
@@ -86,12 +90,13 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 10%;
+  padding-top: 10px;
+  padding-bottom: 40px;
 }
 
 button {
   padding: 20px 40px;
-  background: none;
+  background: whitesmoke;
   border: none;
   position: relative;
   text-transform: uppercase;

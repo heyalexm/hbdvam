@@ -509,7 +509,7 @@ body {
 
 button {
   padding: 20px 40px;
-  background: none;
+  background: whitesmoke;
   border: none;
   position: relative;
   text-transform: uppercase;
