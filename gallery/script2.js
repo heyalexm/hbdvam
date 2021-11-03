@@ -21,8 +21,8 @@ const data = [{
 },
 {
     id: 5,
-    name: "Boat",
-    image: "/gallery/random/5.jpg"
+    name: "",
+    image: "/gallery/random/5.gif"
 },
 {
     id: 6,
@@ -31,7 +31,7 @@ const data = [{
 },
 {
     id: 7,
-    name: "Fire",
+    name: "",
     image: "/gallery/random/7.jpg"
 },
 {
@@ -41,22 +41,22 @@ const data = [{
 },
 {
     id: 9,
-    name: "Bridge",
+    name: "",
     image: "/gallery/random/9.jpg"
 },
 {
     id: 10,
-    name: "Garden",
+    name: "",
     image: "/gallery/random/10.jpg"
 },
 {
     id: 11,
-    name: "Bridge",
+    name: "",
     image: "/gallery/random/11.jpg"
 },
 {
     id: 12,
-    name: "Bridge",
+    name: "",
     image: "/gallery/random/12.jpg"
 },
 {

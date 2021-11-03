@@ -21,7 +21,7 @@ const data = [{
 },
 {
   id: 5,
-  name: "Boat",
+  name: "",
   image: "/gallery/Vam/3.jpg"
 },
 {
@@ -31,7 +31,7 @@ const data = [{
 },
 {
   id: 7,
-  name: "Fire",
+  name: "",
   image: "/gallery/Vam/4.jpg"
 },
 {
@@ -41,22 +41,22 @@ const data = [{
 },
 {
   id: 9,
-  name: "Bridge",
+  name: "",
   image: "/gallery/Vam/5.jpg"
 },
 {
   id: 10,
-  name: "Garden",
+  name: "",
   image: "/gallery/switzerland/5.jpg"
 },
 {
   id: 11,
-  name: "Bridge",
+  name: "",
   image: "/gallery/Vam/6.jpg"
 },
 {
   id: 12,
-  name: "Bridge",
+  name: "",
   image: "/gallery/switzerland/6.jpg"
 },
 {
@@ -81,7 +81,7 @@ const data = [{
 },
 {
   id: 17,
-  name: "Boat",
+  name: "",
   image: "/gallery/Vam/9.jpg"
 },
 {
@@ -91,7 +91,7 @@ const data = [{
 },
 {
   id: 19,
-  name: "Fire",
+  name: "",
   image: "/gallery/Vam/10.jpg"
 },
 {
@@ -101,22 +101,22 @@ const data = [{
 },
 {
   id: 21,
-  name: "Bridge",
+  name: "",
   image: "/gallery/Vam/11.jpg"
 },
 {
   id: 22,
-  name: "Garden",
+  name: "",
   image: "/gallery/switzerland/11.jpg"
 },
 {
   id: 23,
-  name: "Bridge",
+  name: "",
   image: "/gallery/Vam/12.jpg"
 },
 {
   id: 24,
-  name: "Bridge",
+  name: "",
   image: "/gallery/switzerland/12.jpg"
 }];
 
